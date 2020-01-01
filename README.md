@@ -1,18 +1,15 @@
 ## Jogo da velha com React Hooks e React Context
 
 Uma edição do tutorial de introdução ao React usando Context e React Hooks 
-(useState, useEffect e useContext).
+(useReducer, useEffect e useContext).
 
 Versão final: https://jogo-da-velha-om.netlify.com/
 
 Tutorial original:
 https://pt-br.reactjs.org/tutorial/tutorial.html
 
-Arquivos de configuração do ESLint e Prettier: 
-https://github.com/luizomf/.eslintrc.js.
-
 Repositório do vídeo:
-https://github.com/luizomf/jogo-da-velha-react-hooks-context
+https://github.com/luizomf/jogo-da-velha-usereducer
 
 Meus cursos:
 
