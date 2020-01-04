@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jogo-da-velha-usereducer/static/css/main.5bff0e4e.chunk.css",
+    "main.js": "/jogo-da-velha-usereducer/static/js/main.948de818.chunk.js",
+    "main.js.map": "/jogo-da-velha-usereducer/static/js/main.948de818.chunk.js.map",
+    "runtime-main.js": "/jogo-da-velha-usereducer/static/js/runtime-main.7d80f6c8.js",
+    "runtime-main.js.map": "/jogo-da-velha-usereducer/static/js/runtime-main.7d80f6c8.js.map",
+    "static/js/2.3db478fe.chunk.js": "/jogo-da-velha-usereducer/static/js/2.3db478fe.chunk.js",
+    "static/js/2.3db478fe.chunk.js.map": "/jogo-da-velha-usereducer/static/js/2.3db478fe.chunk.js.map",
+    "index.html": "/jogo-da-velha-usereducer/index.html",
+    "precache-manifest.1ed07ae6952d759342ff6142a28e927a.js": "/jogo-da-velha-usereducer/precache-manifest.1ed07ae6952d759342ff6142a28e927a.js",
+    "service-worker.js": "/jogo-da-velha-usereducer/service-worker.js",
+    "static/css/main.5bff0e4e.chunk.css.map": "/jogo-da-velha-usereducer/static/css/main.5bff0e4e.chunk.css.map",
+    "static/js/2.3db478fe.chunk.js.LICENSE": "/jogo-da-velha-usereducer/static/js/2.3db478fe.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d80f6c8.js",
+    "static/js/2.3db478fe.chunk.js",
+    "static/css/main.5bff0e4e.chunk.css",
+    "static/js/main.948de818.chunk.js"
+  ]
+}
