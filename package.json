@@ -9,6 +9,7 @@
     "babel-eslint": "^10.0.3",
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
+    "gh-pages": "^2.1.1",
     "prettier": "^1.19.1",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
@@ -16,11 +17,14 @@
     "react-scripts": "3.3.0",
     "uuid": "^3.3.3"
   },
+  "homepage": "https://luizomf.github.io/jogo-da-velha-usereducer/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
